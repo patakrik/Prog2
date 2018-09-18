@@ -8,7 +8,7 @@ public class Yoda {
 		
 		try {
 			if(str.equals("...")) {
-				//Do something
+				
 			}
 			System.out.println("1. Success");
 
@@ -18,7 +18,7 @@ public class Yoda {
 
 		try {
 			if("...".equals(str)) {
-				//Do something
+				
 			}
 			System.out.println("2. Success");
 
