@@ -1,0 +1,889 @@
+Gtk-Message: 00:29:10.698: Failed to load module "canberra-gtk-module"
+<<< 1 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 1 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+1    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 1 >>>
+<<< 2 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 2 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+2    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 2 >>>
+<<< 3 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 3 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+3    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 3 >>>
+<<< 4 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 4 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+4    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 4 >>>
+<<< 5 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 5 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+5    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 5 >>>
+<<< 6 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 6 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+6    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 6 >>>
+<<< 7 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 7 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+7    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 7 >>>
+<<< 8 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 8 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+8    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 8 >>>
+<<< 9 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 9 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+9    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 9 >>>
+<<< 10 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 10 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+10    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 10 >>>
+<<< 11 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 11 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+11    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 11 >>>
+<<< 12 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 12 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+12    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 12 >>>
+<<< 13 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 13 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+13    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 13 >>>
+<<< 14 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 14 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+14    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 14 >>>
+<<< 15 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 15 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+15    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 15 >>>
+<<< 16 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 16 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+16    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 16 >>>
+<<< 17 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 17 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+17    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 17 >>>
+<<< 18 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 18 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+18    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 18 >>>
+<<< 19 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 19 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+19    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 19 >>>
+<<< 20 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 20 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+20    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 20 >>>
+<<< 21 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 21 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+21    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 21 >>>
+<<< 22 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 22 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+22    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 22 >>>
+<<< 23 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 23 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+23    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 23 >>>
+<<< 24 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 24 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+24    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 24 >>>
+<<< 25 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 25 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+25    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 25 >>>
+<<< 26 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 26 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+26    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 26 >>>
+<<< 27 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 27 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+27    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 27 >>>
+<<< 28 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 28 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+28    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 28 >>>
+<<< 29 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 29 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+29    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 29 >>>
+<<< 30 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 30 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+30    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 30 >>>
+<<< 31 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 31 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+31    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 31 >>>
+<<< 32 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 32 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+32    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 32 >>>
+<<< 33 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 33 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+33    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 33 >>>
+<<< 34 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 34 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+34    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 34 >>>
+<<< 35 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 35 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+35    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 35 >>>
+<<< 36 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 36 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+36    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 36 >>>
+<<< 37 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 37 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+37    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 37 >>>
+<<< 38 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 38 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+38    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 38 >>>
+<<< 39 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 39 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+39    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 39 >>>
+<<< 40 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 40 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+40    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 40 >>>
+<<< 41 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 41 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+41    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 41 >>>
+<<< 42 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 42 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+42    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 42 >>>
+<<< 43 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 43 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+43    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 43 >>>
+<<< 44 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 44 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+44    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 44 >>>
+<<< 45 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 45 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+45    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 45 >>>
+<<< 46 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 46 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+46    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 46 >>>
+<<< 47 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 47 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+47    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 47 >>>
+<<< 48 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 48 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+48    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 48 >>>
+<<< 49 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 49 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+49    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 49 >>>
+<<< 50 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 50 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+50    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 50 >>>
+<<< 51 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 51 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+51    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 51 >>>
+<<< 52 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 52 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+52    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 52 >>>
+<<< 53 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 53 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+53    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 53 >>>
+<<< 54 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 54 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+54    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 54 >>>
+<<< 55 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 55 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+55    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 55 >>>
+<<< 56 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 56 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+56    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 56 >>>
+<<< 57 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 57 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+57    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 57 >>>
+<<< 58 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 58 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+58    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 58 >>>
+<<< 59 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 59 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+59    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 59 >>>
+<<< 60 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 60 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+60    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 60 >>>
+<<< 61 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 61 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+61    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 61 >>>
+<<< 62 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 62 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+62    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 62 >>>
+<<< 63 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 63 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+63    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 63 >>>
+<<< 64 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 64 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+64    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 64 >>>
+<<< 65 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 65 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+65    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 65 >>>
+<<< 66 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 66 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+66    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 66 >>>
+<<< 67 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 67 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+67    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 67 >>>
+<<< 68 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 68 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+68    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 68 >>>
+<<< 69 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 69 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+69    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 69 >>>
+<<< 70 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 70 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+70    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 70 >>>
+<<< 71 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 71 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+71    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 71 >>>
+<<< 72 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 72 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+72    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 72 >>>
+<<< 73 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 73 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+73    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 73 >>>
+<<< 74 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 74 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+74    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 74 >>>
+<<< 75 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 75 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+75    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 75 >>>
+<<< 76 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 76 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+76    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 76 >>>
+<<< 77 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 77 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+77    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 77 >>>
+<<< 78 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 78 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+78    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 78 >>>
+<<< 79 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 79 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+79    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 79 >>>
+<<< 80 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 80 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+80    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 80 >>>
+<<< 81 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 81 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+81    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 81 >>>
+<<< 82 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 82 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+82    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 82 >>>
+<<< 83 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 83 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+83    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 83 >>>
+<<< 84 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 84 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+84    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 84 >>>
+<<< 85 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 85 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+85    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 85 >>>
+<<< 86 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 86 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+86    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 86 >>>
+<<< 87 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 87 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+87    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 87 >>>
+<<< 88 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 88 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+88    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 88 >>>
+<<< 89 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 89 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+89    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 89 >>>
+<<< 90 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 90 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+90    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 90 >>>
+<<< 91 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 91 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+91    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 91 >>>
+<<< 92 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 92 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+92    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 92 >>>
+<<< 93 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 93 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+93    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 93 >>>
+<<< 94 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 94 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+94    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 94 >>>
+<<< 95 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 95 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+95    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 95 >>>
+<<< 96 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 96 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+96    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 96 >>>
+<<< 97 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 97 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+97    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 97 >>>
+<<< 98 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 98 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+98    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 98 >>>
+<<< 99 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 99 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+99    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 99 >>>
+<<< 100 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 100 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+100    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 100 >>>
+<<< 101 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 101 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+101    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 101 >>>
+<<< 102 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 102 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+102    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 102 >>>
+<<< 103 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 103 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+103    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 103 >>>
+<<< 104 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 104 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+104    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 104 >>>
+<<< 105 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 105 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+105    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 105 >>>
+<<< 106 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 106 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+106    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 106 >>>
+<<< 107 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 107 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+107    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 107 >>>
+<<< 108 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 108 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+108    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 108 >>>
+<<< 109 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 109 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+109    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 109 >>>
+<<< 110 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 110 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+110    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 110 >>>
+<<< 111 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 111 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+111    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 111 >>>
+<<< 112 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 112 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+112    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 112 >>>
+<<< 113 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 113 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+113    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 113 >>>
+<<< 114 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 114 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+114    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 114 >>>
+<<< 115 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 115 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+115    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 115 >>>
+<<< 116 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 116 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+116    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 116 >>>
+<<< 117 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 117 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+117    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 117 >>>
+<<< 118 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 118 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+118    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 118 >>>
+<<< 119 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 119 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+119    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 119 >>>
+<<< 120 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 120 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+120    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 120 >>>
+<<< 121 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 121 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+121    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 121 >>>
+<<< 122 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 122 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+122    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 122 >>>
+<<< 123 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 123 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+123    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 123 >>>
+<<< 124 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 124 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+124    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 124 >>>
+<<< 125 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 125 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+125    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 125 >>>
+<<< 126 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 126 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+126    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 126 >>>
+<<< 127 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 127 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+127    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 127 >>>
+<<< 128 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 128 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+128    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 128 >>>
+<<< 129 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 129 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+129    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 129 >>>
+<<< 130 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 130 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+130    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 130 >>>
+<<< 131 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 131 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+131    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 131 >>>
+<<< 132 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 132 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+132    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 132 >>>
+<<< 133 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 133 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+133    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 133 >>>
+<<< 134 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 134 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+134    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 134 >>>
+<<< 135 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 135 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+135    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 135 >>>
+<<< 136 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 136 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+136    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 136 >>>
+<<< 137 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 137 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+137    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 137 >>>
+<<< 138 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 138 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+138    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 138 >>>
+<<< 139 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 139 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+139    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 139 >>>
+<<< 140 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 140 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+140    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 140 >>>
+<<< 141 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 141 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+141    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 141 >>>
+<<< 142 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 142 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+142    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 142 >>>
+<<< 143 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 143 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+143    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 143 >>>
+<<< 144 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 144 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+144    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 144 >>>
+<<< 145 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 145 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+145    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 145 >>>
+<<< 146 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 146 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+146    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 146 >>>
+<<< 147 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 147 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+147    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 147 >>>
+<<< 148 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 148 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+148    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 148 >>>
+<<< 149 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 149 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+149    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 149 >>>
+<<< 150 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 150 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+150    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 150 >>>
+<<< 151 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 151 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+151    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 151 >>>
+<<< 152 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 152 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+152    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 152 >>>
+<<< 153 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 153 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+153    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 153 >>>
+<<< 154 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 154 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+154    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 154 >>>
+<<< 155 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 155 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+155    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 155 >>>
+<<< 156 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 156 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+156    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 156 >>>
+<<< 157 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 157 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+157    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 157 >>>
+<<< 158 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 158 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+158    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 158 >>>
+<<< 159 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 159 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+159    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 159 >>>
+<<< 160 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 160 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+160    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 160 >>>
+<<< 161 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 161 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+161    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 161 >>>
+<<< 162 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 162 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+162    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 162 >>>
+<<< 163 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 163 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+163    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 163 >>>
+<<< 164 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 164 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+164    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 164 >>>
+<<< 165 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 165 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+165    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 165 >>>
+<<< 166 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 166 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+166    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 166 >>>
+<<< 167 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 167 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+167    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 167 >>>
+<<< 168 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 168 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+168    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 168 >>>
+<<< 169 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 169 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+169    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 169 >>>
+<<< 170 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 170 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+170    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 170 >>>
+<<< 171 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 171 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+171    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 171 >>>
+<<< 172 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 172 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+172    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 172 >>>
+<<< 173 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 173 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+173    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 173 >>>
+<<< 174 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 174 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+174    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 174 >>>
+<<< 175 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 175 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: -100 %
+175    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 175 >>>
+<<< 176 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 176 [LEARNING] Foobar0 0x55a1e39ece60 bogocertainty of convergence: 0 %
+176    #MPUs: 1 Observation (MPU): Foobar0 0x55a1e39ece60
+>>> 176 >>>
+<<< 177 <<<
+   HABITUATION MONITOR: (isHABI MPU) 0 0 0 0 0 0 ||| 0 0
+   HABITUATION MONITOR: 177 [LEARNING]  bogocertainty of convergence: -100 %
+177    #MPUs: 1 Observation (MPU): 
+>>> 177 >>>
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+<<< 360 <<<
