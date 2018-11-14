@@ -1,0 +1,20 @@
+NEMESPOR BrainB Test 6.0.3
+time      : 112
+bps       : 0
+noc       : 1
+nop       : 0
+lost      : 
+15130 4210 2960 90 0 0 0 
+mean      : 3198
+var       : 5534.66
+found     : 
+mean      : 0
+var       : 0
+lost2found: 
+mean      : 0
+var       : 0
+found2lost: 
+mean      : 0
+var       : 0
+time      : 0:11
+U R about 0 Kilobytes
